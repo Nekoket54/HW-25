@@ -1,0 +1,22 @@
+.box-1{
+    width: 120px;
+    height: 120px;
+    background-color: #ff7171;
+}
+
+.box-2{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(132, 132, 255);
+    position: absolute;
+    left: 85px;
+    top: 85px;
+}
+
+.box-3{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(113, 255, 113);
+    margin-left: 150px;
+    margin-top: 30px;
+}
